@@ -9,3 +9,9 @@ cd /volume3/docker/
 ./bitwarden.sh update
 ```
 
+#### Update pi-hole
+
+```bash
+cd /volume3/docker/composes/ && sudo docker-compose up -d
+```
+
