@@ -4,6 +4,7 @@
 
 ## Snippets
 
+* [Bootstrap-select](snippets/bootstrap-select.md)
 * [JS](snippets/js.md)
 
 ## Commands
